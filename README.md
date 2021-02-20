@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Zalo Group, VNG Corporation.
-- 🌱 I’m a **Data Science Collaborator**
+- 🔭 Studying Computer Science at PTIT
+- 🌱 **Data Science Collaborator** at Zalo Group, VNG Corporation.
 - 😄 Former President at [Programming PTIT Club](https://www.facebook.com/clubproptit)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dodoproptit99&hide=issues&show_icons=true&theme=dark)](https://github.com/dodoproptit99)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodoproptit99&layout=compact)](https://github.com/dodoproptit99)
 
 
 <!--
